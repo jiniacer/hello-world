@@ -1,8 +1,8 @@
-## Hello, welcome to my site!
+## I'm Juan, but you can call me John
 
-You can use the [editor on GitHub](https://github.com/jinieace/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 ### Markdown
 
