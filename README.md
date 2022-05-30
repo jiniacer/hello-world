@@ -1,4 +1,4 @@
-Welcome to my site! I hope to show a bit of my competency with computers through this page. It is hosted through GitHub pages and is also technically my first repo.
+Welcome to my site! I hope to show a bit of my competency with computers through this static page. It is hosted through GitHub pages and is also technically my first repo.
 
 I've been interested in the tech world since I was young, and aim to perfect the art of human computer interaction as much I can, be it through work, hobbies, or otherwise.
 
