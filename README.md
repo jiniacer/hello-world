@@ -1,4 +1,4 @@
-## I'm Juan, but you can call me John
+### I'm Juan, but you can call me John
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
